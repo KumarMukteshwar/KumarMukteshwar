@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Mukteshwar</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" border-radius="20" margin="20"  src="https://www.interviewbit.com/blog/wp-content/uploads/2023/04/cropped-Frequently-Asked-Interview-Questions-on-Palindrome-Number_.jpg">
+<img align="right" alt="coding" width="400" border-radius="20" src="https://imgs.search.brave.com/0ivDTX0GtTMgRrj077WbuyJQtlV1IngchhTFzAGLjTI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhZVEptTm5SdE1u/cHBhM2xtYlhGbGRt/bHpjekIwYkdNeE56/RjJiMmh5TkhWNE9Y/cHhkbU14YlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vcWdRVWdnQUMz/UGZ2Njg3cVBDLzIw/MC5naWY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarmukteshwar&label=Profile%20views&color=0e75b6&style=flat" alt="kumarmukteshwar" /> </p>
 
