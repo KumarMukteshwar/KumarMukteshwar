@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with Reading the words or a Sentence in the large Paragraph [Text Utils](https://apnatextutils.netlify.app/)
 
-- 📫 How to reach me **Kumarmukteshwar2002@gmail.com**
+- 📫 How to reach me **adiikumarportfolio.netlify.app**
 
 - ⚡ Fun fact **I think I am funny😎**
 
