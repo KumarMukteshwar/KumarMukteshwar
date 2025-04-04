@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarmukteshwar&label=Profile%20views&color=0e75b6&style=flat" alt="kumarmukteshwar" /> </p>
 
-- 🌱 I'm currently working at [Solution Buggy](https://www.solutionbuggy.com/) as a **Front-End Web Developer.**
+- 🌱 I'm currently working at **[Solution Buggy](https://www.solutionbuggy.com/)** as a **Front-End Web Developer.**
 
 - 🚀 I have completed my learning in **Prepleaf by Masai School**
 
