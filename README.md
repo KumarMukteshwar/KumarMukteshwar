@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: **Kumarmukteshwar2002@gmail.com**
 
-- 🌐 My Portfolio: [adiikumarportfolio.netlify.app](https://adiikumarportfolio.netlify.app)
+- 🌐 My Portfolio: [adiikumarportfolio.netlify.app](https://kumarupdatedprotfolio.netlify.app/)
 
 
 - ⚡ Fun fact **I think I am funny😎**
