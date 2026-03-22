@@ -10,17 +10,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarmukteshwar&label=Profile%20views&color=0e75b6&style=flat" alt="kumarmukteshwar" /> </p>
 
-- 🌱 I'm currently working at **[Solution Buggy](https://www.solutionbuggy.com/)** as a **Front-End Web Developer.**
+- 🌱 I'm currently working at **[Vidarbha Infotech Private Limited](https://www.vidarbhainfotech.com/)** on the  **BEL Project** as a **Software Developer**
 
 - 🚀 I have completed my learning in **Prepleaf by Masai School**
-
-- 🔭 I have completed a blog application based on the MERN stack. [Your Blog's](https://mukteshwarportfolio.netlify.app/)
-
 - 🤝 I’m looking for help with Reading the words or a Sentence in the large Paragraph [Text Utils](https://apnatextutils.netlify.app/)
 
 - 📫 How to reach me: **Kumarmukteshwar2002@gmail.com**
 
-- 🌐 My Portfolio: [Protfolio](https://kumarupdatedprotfolio.netlify.app/)
+- 🌐 My Portfolio: [Protfolio](https://mukteshwarportfolio.netlify.app/)
 
 
 - ⚡ Fun fact **I think I am funny😎**
