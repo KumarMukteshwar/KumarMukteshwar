@@ -14,7 +14,7 @@
 
 - 🚀 I have completed my learning in **Prepleaf by Masai School**
 
-- 🔭 I have completed a blog application based on the MERN stack. [Your Blog's](https://addyourblognow.netlify.app/)
+- 🔭 I have completed a blog application based on the MERN stack. [Your Blog's](https://mukteshwarportfolio.netlify.app/)
 
 - 🤝 I’m looking for help with Reading the words or a Sentence in the large Paragraph [Text Utils](https://apnatextutils.netlify.app/)
 
